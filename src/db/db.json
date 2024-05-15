@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Ollie Erdman",
+    "phone": "721-541-2757",
+    "email": "Jaden.Torphy@hotmail.com",
+    "job": "Human Applications Executive"
+  },
+  {
+    "name": "Louise Kreiger",
+    "phone": "726.884.6806 x2643",
+    "email": "Romaine75@yahoo.com",
+    "job": "International Mobility Agent"
+  },
+  {
+    "name": "Geneva Pfeffer",
+    "phone": "1-496-897-7853 x8781",
+    "email": "Eli_Corwin@yahoo.com",
+    "job": "Lead Creative Orchestrator"
+  },
+  {
+    "name": "Mario Lehner",
+    "phone": "(699) 580-5975",
+    "email": "Santa.Anderson@gmail.com",
+    "job": "Central Usability Developer"
+  }
+]

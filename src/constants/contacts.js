@@ -1,1 +1,4 @@
-export const PATH_DB = '../db/db.json';
+import path from 'node:path';
+
+//src/db/db.json
+export const PATH_DB = path.join('src', 'db', 'db.json');
